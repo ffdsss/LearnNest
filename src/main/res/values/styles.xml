@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme.MenuStyle" parent="TextAppearance.AppCompat.Menu">
+        <item name="android:background">@color/canvas_c</item>
+    </style>
+
+    <style name="MyTheme" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:popupMenuStyle">@style/AppTheme.MenuStyle</item>
+    </style>
+
+</resources>

@@ -1,0 +1,287 @@
+<resources>
+    <string name="app_name">LearnNest</string>
+
+    <string name="home_item_1">HTML and CSS</string>
+    <string name="home_item_2">Java</string>
+    <string name="home_item_3">C and C++</string>
+    <string name="home_item_4">Linux</string>
+    <string name="home_item_5">Objective-C and Swift</string>
+    <string name="home_item_6">JavaScript</string>
+    <string name="home_item_7">Ruby</string>
+    <string name="home_item_8">Go</string>
+    <string name="home_item_9">PHP</string>
+    <string name="home_item_10">Rust</string>
+    <string name="home_item_11">Scala</string>
+    <string name="home_item_12">Python</string>
+    <string name="side_version">Update</string>
+    <string name="side_about">About Us</string>
+    <string name="side_email">Email</string>
+    <string name="side_rate">Rate Us</string>
+    <string name="side_share">Share</string>
+    <string name="share_to">Share to</string>
+
+    <string name="h5_1" translatable="false">https://learn.shayhowe.com/html-css/</string>
+    <string name="h5_1_t" translatable="false">Learn to Code HTML &amp; CSS</string>
+    <string name="h5_1_d" translatable="false">Learn to Code HTML &amp; CSS is a simple and comprehensive guide dedicated to helping beginners learn HTML and CSS. Outlining the fundamentals, this guide works through all common elements of front-end design and development.</string>
+
+    <string name="h5_2" translatable="false">https://github.com/airbnb/css</string>
+    <string name="h5_2_t" translatable="false">Airbnb CSS / Sass Styleguide</string>
+    <string name="h5_2_d" translatable="false">A mostly reasonable approach to CSS and Sass</string>
+
+    <string name="h5_3" translatable="false">https://airbnb.io/javascript/css-in-javascript/</string>
+    <string name="h5_3_t" translatable="false">Airbnb JavaScript Style Guide</string>
+    <string name="h5_3_d" translatable="false">A mostly reasonable approach to JavaScript</string>
+
+    <string name="h5_4" translatable="false">https://learn.shayhowe.com/advanced-html-css/</string>
+    <string name="h5_4_t" translatable="false">Learn to Code Advanced HTML &amp; CSS</string>
+    <string name="h5_4_d" translatable="false">Learn to Code Advanced HTML &amp; CSS takes a deeper look at front-end design and development, expanding on what is covered in the beginner’s guide. Studying modern front-end development, this guide teaches the latest for any designer looking to round out their front-end skills.</string>
+
+    <string name="h5_5" translatable="false">https://atomicdesign.bradfrost.com/</string>
+    <string name="h5_5_t" translatable="false">Atomic Design by Brad Frost</string>
+    <string name="h5_5_d" translatable="false">We\'re tasked with making interfaces for more users in more contexts using more browsers on more devices with more screen sizes and more capabilities than ever before. That\'s a daunting task indeed. Thankfully, design systems are here to help.</string>
+
+    <string name="h5_6" translatable="false">https://github.com/cssanimation/css-animation-101</string>
+    <string name="h5_6_t" translatable="false">CSS Animation 101</string>
+    <string name="h5_6_d" translatable="false">Animation using CSS can be overwhelming to learn all at once.</string>
+
+    <string name="h5_7" translatable="false">https://goalkicker.com/CSSBook/</string>
+    <string name="h5_7_t" translatable="false">CSS Notes for Professionals</string>
+    <string name="h5_7_d" translatable="false">Compiled from StackOverflow Documentation (PDF)</string>
+
+    <string name="h5_8" translatable="false">https://html5forwebdesigners.com/</string>
+    <string name="h5_8_t" translatable="false">HTML5 For Web Designers by Jeremy Keit</string>
+    <string name="h5_8_d" translatable="false">A gorgeous 85 page book designed by Jason Santa Maria.</string>
+
+
+    <string name="j_1" translatable="false">https://mkyong.com/all-tutorials-on-mkyong-com/</string>
+    <string name="j_1_t" translatable="false">Category wise tutorials - J2EE</string>
+    <string name="j_1_d" translatable="false">As title, for quick reference.</string>
+
+    <string name="j_2" translatable="false">https://google.github.io/styleguide/javaguide.html</string>
+    <string name="j_2_t" translatable="false">Google Java Style Guide</string>
+    <string name="j_2_d" translatable="false">As title, for quick reference.</string>
+
+    <string name="j_3" translatable="false">https://books.goalkicker.com/HibernateBook/</string>
+    <string name="j_3_t" translatable="false">Hibernate Notes for Professionals book</string>
+    <string name="j_3_d" translatable="false">Hibernate Notes for Professionals book</string>
+
+    <string name="j_4" translatable="false">https://ptgmedia.pearsoncmg.com/images/013143697X/downloads/013143697X_book.pdf</string>
+    <string name="j_4_t" translatable="false">Java Application Development on Linux</string>
+    <string name="j_4_d" translatable="false">Why another book on Java? Why a book on Java and Linux? Isn’t Java a platform-independent system? Aren’t there enough books on Java? Can’t I learn
+everything I need to know from the Web?</string>
+
+    <string name="j_5" translatable="false">https://www.scrapingbee.com/java-webscraping-book/</string>
+    <string name="j_5_t" translatable="false">The Java Web Scraping Handbook</string>
+    <string name="j_5_d" translatable="false">Web scraping or crawling is the act of fetching data from a third party website by downloading and parsing the HTML code to extract the data you want. It can be done manually, but generally this term refers to the automated process of downloading the HTML content of a page, parsing/extracting the data, and saving it into a database for further analysis or use</string>
+
+    <string name="j_6" translatable="false">https://www.vogella.com/tutorials/RxJava/article.html</string>
+    <string name="j_6_t" translatable="false">Using RxJava 2 - Tutorial</string>
+    <string name="j_6_d" translatable="false">In reactive programming the consumer reacts to the data as it comes in. This is the reason why asynchronous programming is also called reactive programming. Reactive programming allows to propagates event changes to registered observers.</string>
+
+    <string name="c_1" translatable="false">https://github.com/HappyCerberus/book-cpp-algorithms</string>
+    <string name="c_1_t" translatable="false">Hibernate Notes for Professionals book</string>
+    <string name="c_1_d" translatable="false">This repository contains the LaTeX source and C++ code samples for the book "A Complete Guide to Standard C++ Algorithms".</string>
+
+    <string name="c_2" translatable="false">https://fbb-git.gitlab.io/cppannotations/</string>
+    <string name="c_2_t" translatable="false">C++ Annotations</string>
+    <string name="c_2_d" translatable="false">This is the main page of the C++ Annotations project hosted at GitLab.com.</string>
+
+
+    <string name="c_3" translatable="false">https://cplusplus.com/doc/tutorial/</string>
+    <string name="c_3_t" translatable="false">C++ Language</string>
+    <string name="c_3_d" translatable="false">These tutorials explain the C++ language from its basics up to the newest features introduced by C++11. Chapters have a practical orientation, with example programs in all sections to start practicing what is being explained right away.</string>
+
+
+    <string name="c_4" translatable="false">http://elementsofprogramming.com/</string>
+    <string name="c_4_t" translatable="false">Elements of Programming</string>
+    <string name="c_4_d" translatable="false">ecomposing programs into a system of algorithmic components</string>
+
+
+    <string name="c_5" translatable="false">https://google.github.io/styleguide/cppguide.html</string>
+    <string name="c_5_t" translatable="false">Google C++ Style Guide</string>
+    <string name="c_5_d" translatable="false">Google C++ Style Guide</string>
+
+
+    <string name="c_6" translatable="false">https://www.learncpp.com/</string>
+    <string name="c_6_t" translatable="false">LearnCpp</string>
+    <string name="c_6_d" translatable="false">LearnCpp.com is a free website devoted to teaching you how to program in C++. Whether you’ve had any prior programming experience or not, the tutorials on this site will walk you through all the steps to write, compile, and debug your C++ programs, all with plenty of examples.</string>
+
+    <string name="c_7" translatable="false">https://theboostcpplibraries.com/</string>
+    <string name="c_7_t" translatable="false">The Boost C++ Libraries</string>
+    <string name="c_7_d" translatable="false">The Boost C++ logo is the property of the Boost C++ developers and is used here with their permission. With the exception of the Boost C++ logo, the cover is Copyright © 2014 XML Press, All Rights Reserved.</string>
+
+    <string name="c_8" translatable="false">https://greenteapress.com/wp/think-c/</string>
+    <string name="c_8_t" translatable="false">Think C/C++</string>
+    <string name="c_8_d" translatable="false">Think C++ is an introduction to programming using the C++ programming language. I originally wrote it to help students prepare for the Computer Science AP exam (when the exam was in C++).</string>
+
+    <string name="c_9" translatable="false">https://gameprogrammingpatterns.com/contents.html</string>
+    <string name="c_9_t" translatable="false">Game Programming Patterns</string>
+    <string name="c_9_d" translatable="false">Game Programming Patterns</string>
+
+
+    <string name="l_1" translatable="false">https://www.linuxfromscratch.org/alfs/download.html</string>
+    <string name="l_1_t" translatable="false">Automated Linux From Scratch</string>
+    <string name="l_1_d" translatable="false">Linux From Scratch (LFS) is a project that provides you with step-by-step instructions for building your own customized Linux system entirely from source. Why would I want an LFS system?</string>
+
+    <string name="l_2" translatable="false">http://ubuntu-manual.org/</string>
+    <string name="l_2_t" translatable="false">Getting Started with Ubuntu</string>
+    <string name="l_2_d" translatable="false">Getting Started with Ubuntu 16.04 is a comprehensive beginners guide for the Ubuntu operating system. It is written under an open source license and is free for you to download, read, modify and share.</string>
+
+    <string name="l_3" translatable="false">https://www.oreilly.com/openbook/debian/book/</string>
+    <string name="l_3_t" translatable="false">Learning Debian GNU/Linux</string>
+    <string name="l_3_d" translatable="false">Learning Debian GNU/Linux</string>
+
+    <string name="l_4" translatable="false">https://goalkicker.com/LinuxBook/</string>
+    <string name="l_4_t" translatable="false">Linux commands Notes for Professionals</string>
+    <string name="l_4_d" translatable="false">Linux commands Notes for Professionals</string>
+
+
+    <string name="s_1" translatable="false">https://www.programming-books.io/essential/swift/</string>
+    <string name="s_1_t" translatable="false">Essential Swift </string>
+    <string name="s_1_d" translatable="false">Essential Swift is a free book about Swift programming language.</string>
+
+    <string name="s_2" translatable="false">https://www.hackingwithswift.com/</string>
+    <string name="s_2_t" translatable="false">Hacking with Swift</string>
+    <string name="s_2_d" translatable="false">With more free Swift tutorials than any other site, Hacking with Swift will help you learn app development with UIKit and SwiftUI. Search the site, or choose a learning path below.</string>
+
+
+    <string name="s_3" translatable="false">https://goalkicker.com/SwiftBook/</string>
+    <string name="s_3_t" translatable="false">Swift Notes for Professionals book</string>
+    <string name="s_3_d" translatable="false">Swift Notes for Professionals book</string>
+
+
+    <string name="s_4" translatable="false">https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics/</string>
+    <string name="s_4_t" translatable="false">The Swift Programming Language</string>
+    <string name="s_4_d" translatable="false">Swift provides many fundamental data types, including Int for integers, Double for floating-point values, Bool for Boolean values, and String for text. Swift also provides powerful versions of the three primary collection types, Array, Set, and Dictionary</string>
+
+    <string name="js_1" translatable="false">https://airbnb.io/javascript/</string>
+    <string name="js_1_t" translatable="false">Airbnb JavaScript Style Guide</string>
+    <string name="js_1_d" translatable="false">A mostly reasonable approach to JavaScript</string>
+
+    <string name="js_2" translatable="false">https://github.com/ryanmcdermott/clean-code-javascript</string>
+    <string name="js_2_t" translatable="false">Clean Code JavaScript</string>
+    <string name="js_2_d" translatable="false">Software engineering principles, from Robert C. Martin\'s book Clean Code, adapted for JavaScript. This is not a style guide. It\'s a guide to producing readable, reusable, and refactorable software in JavaScript.</string>
+
+
+    <string name="js_3" translatable="false">https://www.crockford.com/javascript/</string>
+    <string name="js_3_t" translatable="false">Crockford\'s JavaScript</string>
+    <string name="js_3_d" translatable="false">Actual JavaScript Engine Performance</string>
+
+    <string name="js_4" translatable="false">https://exploringjs.com/deep-js/</string>
+    <string name="js_4_t" translatable="false">Deep JavaScript: Theory and techniques</string>
+    <string name="js_4_d" translatable="false">It teaches how the language works and why. What it teaches is firmly grounded in the ECMAScript specification (which the book explains and refers to).</string>
+
+    <string name="js_5" translatable="false">https://devdocs.io/javascript/</string>
+    <string name="js_5_t" translatable="false">Dev Docs</string>
+    <string name="js_5_d" translatable="false">The JavaScript reference serves as a repository of facts about the JavaScript language. The entire language is described here in detail. As you write JavaScript code, you\'ll refer to these pages often (thus the title "JavaScript reference").</string>
+
+    <string name="js_6" translatable="false">https://exploringjs.com/es6/</string>
+    <string name="js_6_t" translatable="false">Exploring ES6</string>
+    <string name="js_6_d" translatable="false">The ECMAScript 6 design process centers on proposals for features. Proposals are often triggered by suggestions from the developer community. To avoid design by committee, proposals are maintained by champions (1–2 committee delegates).</string>
+
+
+    <string name="js_7" translatable="false">https://read.humanjavascript.com/ch01-introduction.html</string>
+    <string name="js_7_t" translatable="false">Human JavaScript</string>
+    <string name="js_7_d" translatable="false">Code is as much about people as it is about computers. Sure, it\'s run by computers, but it\'s written by, maintained by, and ultimately created for people. People are not computers. We are not robots. We are unpredictable, flawed, and irrational.</string>
+
+
+    <string name="js_8" translatable="false">https://github.com/AlbertoMontalesi/The-complete-guide-to-modern-JavaScript</string>
+    <string name="js_8_t" translatable="false">The Complete Guide to Modern JavaScript</string>
+    <string name="js_8_d" translatable="false">This book is not for total beginners, it does cover the basics of programming in general and albeit providing an introduction to JavaScript I would recommend that you take it only if you have at least a basic understanding of the language.</string>
+
+    <string name="r_1" translatable="false">https://launchschool.com/books/core_ruby_tools</string>
+    <string name="r_1_t" translatable="false">Core Ruby Tools</string>
+    <string name="r_1_d" translatable="false">It provides a short tour of four core Ruby tools: Gems, Ruby Version Managers, Bundler, and Rake. </string>
+
+
+    <string name="r_2" translatable="false">https://leanpub.com/developing-games-with-ruby/read</string>
+    <string name="r_2_t" translatable="false">Developing Games With Ruby</string>
+    <string name="r_2_d" translatable="false">Once there was a boy who fell in love with this magical device that could bring things to life inside a glaring screen. He spent endless hours exploring imaginary worlds, fighting strange creatures, shooting pixelated spaceships, racing boxy cars. </string>
+
+    <string name="r_3" translatable="false">https://essenceofchaos.gitbooks.io/learn-ruby-first/content/</string>
+    <string name="r_3_t" translatable="false">Learn Ruby First</string>
+    <string name="r_3_d" translatable="false">Learn Ruby First focuses on core programming concepts and essential domain fundamentals. It guides the reader on a comprehensive journey, exploring the basics of programming through the Ruby language.</string>
+
+
+    <string name="g_1" translatable="false">https://www.golang-book.com/books/intro</string>
+    <string name="g_1_t" translatable="false">An Introduction to Programming in Go</string>
+    <string name="g_1_d" translatable="false">This book is no longer available for purchase, but it is still available for free online below or in PDF form.</string>
+
+    <string name="g_2" translatable="false">https://codegangsta.gitbooks.io/building-web-apps-with-go/content/</string>
+    <string name="g_2_t" translatable="false"> Building Web Apps with Go</string>
+    <string name="g_2_d" translatable="false">No seriously, web programming in Go is so fun and easy that you won\'t even notice how much information you are learning along the way!</string>
+
+    <string name="g_3" translatable="false">https://chenyitian.gitbooks.io/gin-web-framework/content/</string>
+    <string name="g_3_t" translatable="false">Gin Web Framework</string>
+    <string name="g_3_d" translatable="false">Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.</string>
+
+    <string name="g_4" translatable="false">https://go-book.readthedocs.io/en/latest/#</string>
+    <string name="g_4_t" translatable="false">Let\'s learn Go!</string>
+    <string name="g_4_d" translatable="false">This website is an online book that aims to introduce people to this awesome language. And if you, actually, stumbled upon it while looking for real gophers, let me still invite you to read it and learn something cool! C’mon, go-pher it!</string>
+
+
+    <string name="p_1" translatable="false">https://codeahoy.com/learn/php/toc/</string>
+    <string name="p_1_t" translatable="false">The PHP Programming Language</string>
+    <string name="p_1_d" translatable="false">This is a beginner\'s guide for writing PHP programs from sratch and learning practical programming skills to use with any language.</string>
+
+    <string name="p_2" translatable="false">https://goalkicker.com/PHPBook/</string>
+    <string name="p_2_t" translatable="false">PHP Notes for Professionals book</string>
+    <string name="p_2_d" translatable="false">PHP Notes for Professionals book</string>
+
+    <string name="p_4" translatable="false">https://phpapprentice.com/</string>
+    <string name="p_4_t" translatable="false">PHP Apprentice</string>
+    <string name="p_4_d" translatable="false">PHP Apprentice is an online, open source book about the PHP programming language. PHP is one of the most popular platforms for building websites and web services. It is a great language that is easy to learn and allows you to build powerful and complex web applications very quickly.</string>
+
+    <string name="p_3" translatable="false">https://www.programming-books.io/essential/php/</string>
+    <string name="p_3_t" translatable="false">Essential PHP</string>
+    <string name="p_3_d" translatable="false">Most examples are linked to online playground that allows you to change the code and re-run it.</string>
+
+    <string name="p_5" translatable="false">https://www.phpinternalsbook.com/</string>
+    <string name="p_5_t" translatable="false">PHP Internals Book</string>
+    <string name="p_5_d" translatable="false">This book is a collaborative effort between several developers of the PHP language to better document and describe how PHP works internally.</string>
+
+    <string name="p_6" translatable="false">https://daylerees.com/php-pandas/</string>
+    <string name="p_6_t" translatable="false">PHP Pandas</string>
+    <string name="p_6_d" translatable="false">PHP Pandas is the book that aims to teach everyone how to be a web developer. You don\'t need any existing web development experience. The entire book is available online to encourage learning.</string>
+
+    <string name="ru_1" translatable="false">https://stevedonovan.github.io/rust-gentle-intro/</string>
+    <string name="ru_1_t" translatable="false">A Gentle Introduction To Rust</string>
+    <string name="ru_1_d" translatable="false">The aim of this tutorial is to take you to a place where you can read and write enough Rust to fully appreciate the excellent learning resources available online, in particular The Book. It\'s an opportunity to try before you buy, and get enough feeling for the power of the language to want to go deeper.</string>
+
+    <string name="ru_2" translatable="false">https://rust-lang-nursery.github.io/rust-cookbook/</string>
+    <string name="ru_2_t" translatable="false">Rust Cookbook</string>
+    <string name="ru_2_d" translatable="false">This Rust Cookbook is a collection of simple examples that demonstrate good practices to accomplish common programming tasks, using the crates of the Rust ecosystem.</string>
+
+
+    <string name="sa_1" translatable="false">https://docs.scala-lang.org/tutorials/scala-for-java-programmers.html</string>
+    <string name="sa_1_t" translatable="false">A Scala Tutorial for Java programmers </string>
+    <string name="sa_1_d" translatable="false">There’s a saying that Scala is Java without semicolons. There is a lot of a truth to this statement: Scala simplifies much of the noise and boilerplate of Java, while building upon the same foundation, sharing the same underlying types and runtime.</string>
+
+    <string name="py_1" translatable="false">https://goalkicker.com/PythonBook/</string>
+    <string name="py_1_t" translatable="false">Python Notes for Professionals book</string>
+    <string name="py_1_d" translatable="false">Python Notes for Professionals book</string>
+
+    <string name="py_2" translatable="false">https://learnbyexample.github.io/100_page_python_intro/</string>
+    <string name="py_2_t" translatable="false">100 Page Python Intro</string>
+    <string name="py_2_d" translatable="false">This book is a short, introductory guide for the Python programming language.</string>
+
+
+    <string name="py_3" translatable="false">https://www.cosmicpython.com/book/preface.html</string>
+    <string name="py_3_t" translatable="false">A Practical Introduction to Python Programming</string>
+    <string name="py_3_d" translatable="false">This book started out as about 30 pages of notes for students in my introductory programming class at Mount St. Mary\'s University.</string>
+
+
+    <string name="py_4" translatable="false">https://jakevdp.github.io/WhirlwindTourOfPython/</string>
+    <string name="py_4_t" translatable="false">A Whirlwind Tour of Python</string>
+    <string name="py_4_d" translatable="false">This website contains the full text of my free O\'Reilly report, A Whirlwind Tour of Python.</string>
+
+    <string name="py_5" translatable="false">https://inventwithpython.com/beyond/</string>
+    <string name="py_5_t" translatable="false">Beyond the Basic Stuff with Python</string>
+    <string name="py_5_d" translatable="false"> More than a mere collection of advanced syntax and masterful tips for writing clean code, you\'ll learn how to advance your Python programming skills by using the command line and other professional tools like code formatters, type checkers, linters, and version control.</string>
+
+    <string name="py_6" translatable="false">https://inventwithpython.com/cracking/</string>
+    <string name="py_6_t" translatable="false">Cracking Codes with Python</string>
+    <string name="py_6_d" translatable="false">Cracking Codes with Python teaches complete beginners how to program in the Python programming language.</string>
+
+
+</resources>

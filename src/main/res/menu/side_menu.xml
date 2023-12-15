@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+
+    <group
+        android:id="@+id/group1"
+        android:checkableBehavior="none">
+        <item
+            android:id="@+id/side_update"
+            android:icon="@drawable/update1"
+            android:title="@string/side_version" />
+    </group>
+    <group
+        android:id="@+id/group2"
+        android:checkableBehavior="none">
+<!--        <item-->
+<!--            android:id="@+id/side_email"-->
+<!--            android:icon="@drawable/email1"-->
+<!--            android:title="@string/side_email"-->
+<!--            android:visible="true" />-->
+        <item
+            android:id="@+id/side_share"
+            android:icon="@drawable/share1"
+            android:title="@string/side_share" />
+    </group>
+
+    <group
+        android:id="@+id/group3"
+        android:checkableBehavior="none">
+        <item
+            android:id="@+id/side_rate"
+            android:icon="@drawable/rate1"
+            android:title="@string/side_rate"
+            android:visible="true" />
+        <item
+            android:id="@+id/side_about"
+            android:icon="@drawable/about1"
+            android:title="@string/side_about" />
+    </group>
+</menu>

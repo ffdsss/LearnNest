@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">WalkWin</string>
+    <string name="start" translatable="false">START</string>
+    <string name="no_event" translatable="false">No events</string>
+    <string name="go" translatable="false">GO</string>
+    <string name="stop" translatable="false">STOP</string>
+    <string name="per_fail" translatable="false">Obtain Activity_RECOGNATION permission failed</string>
+    <string name="per_succ" translatable="false">Obtain Activity_RECOGNATION permission successful</string>
+    <string name="current" translatable="false">Current</string>
+    <string name="total" translatable="false">Total</string>
+    <string name="input_event" translatable="false">Fill in the event</string>
+    <string name="cancel_m" translatable="false">cancel</string>
+    <string name="confirm" translatable="false">confirm</string>
+    <string name="enter_event" translatable="false">enter event</string>
+    <string name="save" translatable="false">SAVE</string>
+    <string name="delete_event" translatable="false">Are you sure to delete this event?</string>
+    <string name="yes" translatable="false">yes</string>
+    <string name="no" translatable="false">no</string>
+    <string name="not_modify" translatable="false">You haven\'t modified any events!</string>
+    <string name="success_save" translatable="false">Successfully saved!</string>
+</resources>

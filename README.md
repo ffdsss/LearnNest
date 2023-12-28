@@ -15,3 +15,5 @@ implementation 'androidx.appcompat:appcompat:1.6.1'
     implementation 'com.haibin:calendarview:3.7.1'
     implementation 'com.github.getActivity:XXPermissions:18.5'
 ```
+
+## QucikRecall 记事app，可以添加到系统日历中

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="rv_rect_1">1dp</dimen>
+    <dimen name="rv_rect_2">2dp</dimen>
+    <dimen name="rv_rect_3">3dp</dimen>
+    <dimen name="rv_rect_4">4dp</dimen>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="icon__font_color_fill">#FF2875FF</color>
+    <color name="icon__font_color_blank">#FF8a8a8a</color>
+    <color name="bottom_bg">#FFF2FDFF</color>
+    <color name="content_bg">#FFF3F2F8</color>
+    <color name="button_bg">#FFFF4101</color>
+    <color name="button_del_bg">#FF1EBDBA</color>
+    <color name="font_bg">#FF6D6F71</color>
+    <color name="font_bg1">#FF000000</color>
+    <color name="time_bg">#FFEEEEEE</color>
+    <color name="white_bg">#FFFFFFFF</color>
+    <color name="title_bg">#FFFAFAFA</color>
+    <color name="button_badge_bg">#FFd81e06</color>
+    
+
+</resources>

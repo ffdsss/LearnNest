@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">QuickRecall</string>
+
+    <string name="input_title" translatable="false">Title</string>
+    <string name="start_time" translatable="false">Start</string>
+    <string name="end_time" translatable="false">End</string>
+    <string name="new_schedule" translatable="false">New Schedule</string>
+    <string name="my_schedule" translatable="false">My Schedule</string>
+    <string name="category" translatable="false">Category</string>
+    <string name="enter_category" translatable="false">enter 10 letters</string>
+    <string name="calendar" translatable="false">Calendar</string>
+    <string name="remark" translatable="false">Remark</string>
+    <string name="add" translatable="false">ADD</string>
+    <string name="add_small" translatable="false">add</string>
+    <string name="message_input_title" translatable="false">enter a title</string>
+    <string name="add_success" translatable="false">Added successfully</string>
+    <string name="add_fail" translatable="false">Failed to add, schedule is repeated</string>
+    <string name="datetime_valid" translatable="false">The end date and time cannot be less than the start date and time</string>
+
+    <string name="permission_failed" translatable="false">Obtain CALENDAR permission failed</string>
+    <string name="permission_success" translatable="false">Obtain CALENDAR permission successful</string>
+
+
+    <string name="save" translatable="false">SAVE</string>
+    <string name="delete" translatable="false">DELETE</string>
+
+    <string name="detail" translatable="false">Detail</string>
+
+    <string name="no_change" translatable="false">No change!</string>
+    <string name="success_save" translatable="false">Successfully saved!</string>
+
+
+    <string name="settings" translatable="false">Settings</string>
+    <string name="clean_up_data" translatable="false">Clean up data</string>
+    <string name="about_us" translatable="false">About Us</string>
+
+    <string name="category_max" translatable="false">Enter up to 10 categories, please delete existing ones first</string>
+
+    <string name="delete_all" translatable="false">Do you want to clear all records and calendar data</string>
+
+    <string name="yes" translatable="false">yes</string>
+    <string name="no" translatable="false">no</string>
+    
+    <string name="clearing" translatable="false">Clearing</string>
+
+    <string name="features" translatable="false">Features</string>
+
+    <string name="ok" translatable="false">ok</string>
+
+    <string name="about_message" translatable="false">1. Click to specify the date and time range and the schedule time of the category
+2. Click Calendar to add it to the system calendar
+3. You can add and delete categories in the settings
+4. Delete all records with one click in settings</string>
+    
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="category_mode_entry">
+        <item>personal</item>
+        <item>work</item>
+        <item>school</item>
+        <item>mall</item>
+        <item>hospital</item>
+        <item>metro</item>
+        <item>train</item>
+        <item>aircraft</item>
+        <item>sport</item>
+    </string-array>
+</resources>

@@ -88,8 +88,20 @@ public class DetailsFragment extends Fragment {
 
         detailsAdapter.setData(accountInfoList).setOnItemClickListener(pos -> {
             accountInfoDao.delete(getAccountInfoList().get(pos));
-            detailsAdapter.setData(getAccountInfoList());
+            List<AccountInfo> newAccountInfoList = getAccountInfoList();
+            income = 0;
+            expend = 0;
+            for (AccountInfo accountInfo : newAccountInfoList) {
+                if (accountInfo.getIsIncome().equals(context.getString(R.string.income))) {
+                    income = income + Double.parseDouble(accountInfo.getMoney());
+                } else {
+                    expend = expend + Double.parseDouble(accountInfo.getMoney());
+                }
+            }
+            detailsBinding.tvShowIncome.setText(String.format("income: %s  expend: %s", income, expend));
+            detailsAdapter.setData(newAccountInfoList);
             detailsAdapter.notifyDataSetChanged();
+
         });
         detailsBinding.rvDetails.setAdapter(detailsAdapter);
 

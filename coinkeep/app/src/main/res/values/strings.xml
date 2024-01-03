@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">coinkeep</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    
+    <string name="accounting" translatable="false">Accounting</string>
+    <string name="details" translatable="false">Details</string>
+
+    <string name="expend" translatable="false">expend</string>
+    <string name="income" translatable="false">income</string>
+    
+    <string name="food" translatable="false">food</string>
+    <string name="travel" translatable="false">travel</string>
+    <string name="game" translatable="false">game</string>
+    <string name="clothing" translatable="false">clothing</string>
+    <string name="traffic" translatable="false">traffic</string>
+    <string name="digital" translatable="false">digital</string>
+    <string name="educate" translatable="false">educate</string>
+    
+
+
+</resources>
